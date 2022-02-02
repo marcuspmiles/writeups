@@ -1,1 +1,1 @@
-# writeups
+# WRITEUPS
