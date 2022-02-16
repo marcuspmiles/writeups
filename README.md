@@ -1,6 +1,6 @@
 # ||| WRITEUPS |||
 # All writeups can be found on the "Wiki" tab
-## || Bug Reports -
+## || Bug Summaries -
 ## || Career Posts -
 ## || Walk-Throughs -
 
